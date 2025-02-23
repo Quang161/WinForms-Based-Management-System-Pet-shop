@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Introduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
